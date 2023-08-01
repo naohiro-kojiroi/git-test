@@ -1,0 +1,8 @@
+2回目以降に打つコマンド
+
+git add .
+
+git commit -m "英語でなんでも"
+git commit -m "laraveltest"
+
+git push
